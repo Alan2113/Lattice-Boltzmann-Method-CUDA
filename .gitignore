@@ -1,0 +1,13 @@
+cmake-build-*/
+.idea/
+.vs/
+libs/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.dll
