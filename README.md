@@ -1,4 +1,4 @@
-# 🌊 LBM — Lattice Boltzmann Method na GPU
+# LBM — Lattice Boltzmann Method na GPU
 
 Symulacja **dyfuzji** metodą **Lattice Boltzmann** w schemacie **D2Q4**, zaimplementowana w CUDA z wizualizacją OpenGL w czasie rzeczywistym.
 
