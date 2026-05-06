@@ -364,11 +364,11 @@ void keyboard(unsigned char key, int x, int y) {
             break;
         case '+': case '=':
             if (speed_factor > 1) speed_factor--;
-            printf("Predkość: %d\n", speed_factor);
+            printf("Predksc: %d\n", speed_factor);
             break;
         case '-': case '_':
             if (speed_factor < 10) speed_factor++;
-            printf("Predkość: %d\n", speed_factor);
+            printf("Predkosc: %d\n", speed_factor);
             break;
         case 'r': case 'R':
             cudaFree(d_f_in);
